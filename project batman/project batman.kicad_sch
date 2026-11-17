@@ -12459,7 +12459,7 @@
 		(uuid "fd41633b-3a32-4cfa-a952-da4aaf1bfbe7")
 	)
 	(label "GPIO38"
-		(at 234.95 54.61 180)
+		(at 234.95 52.07 180)
 		(effects
 			(font
 				(size 1.27 1.27)
